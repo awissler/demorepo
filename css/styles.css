@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(36, 86, 143);
+}
+h1 {
+    color: white;
+    font-family: Helvetica, Arial, sans-serif
+}
+p {
+    color: rgb(14, 14, 37);
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    width: 20em;
+}
